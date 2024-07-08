@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there developers! 🥳
+
+🌱 I'm currently learning... 
 
 <!--
 **17-100/17-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
